@@ -2,6 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="Datos" type="CLASS" />
+      <mapping pattern="Datos_Prof" type="CLASS" />
+      <mapping pattern="Datos_Alumno" type="CLASS" />
+      <mapping pattern="Dat_Profr" type="JAVA" />
+      <mapping pattern="Dat_Alumn" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
